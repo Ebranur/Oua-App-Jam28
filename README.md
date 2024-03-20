@@ -10,8 +10,8 @@ Bu sayede kullanıcılar, seyahat deneyimlerini zenginleştirirken aynı zamanda
 
 Geliştiriciler;
 
-Ebra Nur Zurel
-Ebu Belk Akyıldız
-İremnur Ömgen
-İmdat Yaman
+Ebra Nur Zurel,
+Ebu Belk Akyıldız,
+İremnur Ömgen,
+İmdat Yaman,
 Oğuzhan Çilkurt
