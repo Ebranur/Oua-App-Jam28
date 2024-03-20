@@ -1,16 +1,16 @@
 # yolcunun_defteri
 
-A new Flutter project.
+Yolcunu Defteri uygulaması, kullanıcıların seyahat planlarını kolaylaştırmak ve deneyimlerini daha keyifli hale getirmek için tasarlanmıştır. 
+Kullanıcılar uygulamaya giriş yaptıktan sonra, bir seyahat rehberi tarafından karşılanacak ve seyahat etmek istedikleri yerlerin konumunu girdikten sonra kendilerine detaylı bilgiler sunulacaktır. 
+Bu bilgiler, gezilecek yerlerin tanıtımı, bölgenin kültürel özellikleri, yerel lezzetler ve etkinlikler hakkında olacak.
 
-## Getting Started
+Ayrıca, kullanıcılar uygulama üzerinden çektikleri fotoğrafları paylaşabilecek ve notlar alabileceklerdir. 
+Seyahatleri boyunca attıkları adım sayısı belirli bir seviyeye ulaştığında, tanımlanan biletler sayesinde etkinlik, tiyatro veya müzelere indirim kuponu ile giriş yapabileceklerdir. 
+Bu sayede kullanıcılar, seyahat deneyimlerini zenginleştirirken aynı zamanda yerel kültürü daha yakından tanıma fırsatı bulacaklardır.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Geliştiriciler;
+Ebra Nur Zurel
+Ebu Belk Akyıldız
+İremnur Ömgen
+İmdat Yaman
+Oğuzhan Çilkurt
